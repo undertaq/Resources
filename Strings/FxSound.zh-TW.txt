@@ -133,3 +133,4 @@ countries: Taiwan
 "Theme" = "主題"
 "Dark" = "深色"
 "Light" = "淺色"
+"Swap Channels" = "聲道對調"

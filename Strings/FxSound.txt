@@ -134,3 +134,4 @@ countries: [enter list of 2-character country codes here!]
 "Theme" = "Theme"
 "Dark" = "Dark"
 "Light" = "Light"
+"Swap Channels" = "Swap Channels"

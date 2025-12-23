@@ -133,3 +133,4 @@ countries: cn sg
 "Theme" = "主题"
 "Dark" = "深色"
 "Light" = "浅色"
+"Swap Channels" = "声道对调"
